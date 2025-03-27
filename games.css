@@ -1,0 +1,34 @@
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    
+    
+    }
+
+    .enlaces {
+        position: absolute;
+
+margin-top: 5%;
+margin-left: 35%;
+
+
+
+    }
+
+    a{
+
+text-decoration: none;
+
+font-size: larger;
+
+text-align: center;
+position: relative;
+    }
+
+    a:hover{
+
+color: white;
+
+    }
